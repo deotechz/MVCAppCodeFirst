@@ -1,0 +1,11 @@
+\App_Data\RadUploadTemp
+\Uploaded
+web_test.config
+*.scc
+App_Data/
+KathmanduUniversity\KathmanduUniversity\obj\Debug
+*.cache
+*.txt
+*.lock
+*.mdf
+*.ldf
